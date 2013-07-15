@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Un blog a mi medida"
-date:   2013-07-08 01:12:21
-categories: meta
+title: "Un blog a mi medida"
+date: 2013-07-08 01:12:21
+tags:
+- meta
 ---
 
 Hacía ya tiempo que quería revivir mi blog, aquel lugar donde publico mis hallazgos y aventuras. Sin embargo, la complejidad del [Wordpress][wordpress] me desanimaba constantemente. Afortunadamente siguiendo un par de referencias llegué al [blog de Jano González][janoblog] y noté que con poco esfuerzo podría volver a tener ese espacio que me andaba faltando.
