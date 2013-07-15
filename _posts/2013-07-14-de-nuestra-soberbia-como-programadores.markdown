@@ -6,7 +6,7 @@ tags:
 - opinion
 ---
 
-Estoy convencido de que tengo una de las mejores profesiones del mundo. Pero también soy conciente de que lamentablemente los poderes que se nos brindan muchas veces *se nos suben a la cabeza*.
+Estoy convencido de que tengo una de las mejores profesiones del mundo. Pero también soy consciente de que lamentablemente los poderes que se nos brindan muchas veces *se nos suben a la cabeza*.
 
 Digámoslo abiertamente: la capacidad que tenemos para crear, manipulando palabras, símbolos y grafismos extraños conformando conjuros modernos nos llena de orgullo. Y ese orgullo llega acompañado de una irrefrenable sensación de poder: **¡Yo soy el amo, y te ordeno, débil programa, a hacer las cosas que deseo!**
 
