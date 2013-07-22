@@ -1,3 +1,4 @@
 name: delucas.blog!
 pygments: true
 permalink: /:title
+url: http://delucas.github.io
