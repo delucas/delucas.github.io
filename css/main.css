@@ -188,3 +188,8 @@ ul.posts span {
 .post pre.terminal code {
   background-color: #333;
 }
+
+.post blockquote {
+  border-left: 5px solid #ddd;
+  padding-left: 10px;
+}
