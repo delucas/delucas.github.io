@@ -16,9 +16,15 @@ En nuestro caso decidimos analizar el conjunto de datos educativos y creamos [Ed
 
 Más allá de esos detalles hay que celebrar la concreción de estas iniciativas. Ojalá este sea el inicio para muchas más.
 
+## Actualización
+Hay una nueva nota de [La Nación][lanacion]. Ellos presentaron un equipo, el cual salió nombrado en una mención especial. En ese equipo estuvo como participante el [Knight Mozilla Open News][knight], [Manuel Aristarán][manuel].
+
 [hackaton]: http://datospublicos.gob.ar/hackatonprogramar/
 [polo]: http://www.polo.mincyt.gob.ar/
 [datos]: http://datospublicos.gob.ar
 [perfil]: http://www.perfil.com/ciencia/Un-hackaton-para-crear-la-mejor-aplicacion-de-datos-publicos-20130804-0029.html
 [telam]: http://www.telam.com.ar/notas/201308/27485-masiva-concurrencia-al-hackaton-de-datos-publicos.html
 [educadata]: http://educadata.wecode.io/
+[lanacion]: http://blogs.lanacion.com.ar/data/argentina/fuimos-al-hackatonprogramar/
+[knight]: http://www.mozillaopennews.org/
+[manuel]: http://twitter.com/manuelaristaran
