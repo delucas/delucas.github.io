@@ -2,6 +2,7 @@
 layout: post
 title: "Un poquito de GString en Groovy"
 date: 2013-07-22 08:03:14
+comments: true
 tags:
 - groovy
 - programación

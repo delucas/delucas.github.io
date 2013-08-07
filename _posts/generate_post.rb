@@ -6,10 +6,11 @@ date = Time.now.strftime '%Y-%m-%d'
 filename = "#{date}-#{title}.markdown"
 
 File.open(filename, 'w') { |file|
-	file.puts "---"
-	file.puts "layout: post"
+	file.puts '---'
+	file.puts 'layout: post'
 	file.puts "title: '#{ARGV.join(' ')}'"
 	file.puts "date: #{Time.now}"
+	file.puts 'comments: true'
 	file.puts 'tags:'
 	file.puts '- theTag'
 	file.puts '---'

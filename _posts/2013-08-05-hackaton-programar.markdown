@@ -2,6 +2,7 @@
 layout: post
 title: 'Hackaton &lt;PROGRAM.ar/&gt;'
 date: 2013-08-05 08:18:02
+comments: true
 tags:
 - eventos
 ---

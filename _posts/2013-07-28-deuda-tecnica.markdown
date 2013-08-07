@@ -2,6 +2,7 @@
 layout: post
 title: "Deuda técnica"
 date: 2013-07-28 22:32:31
+comments: true
 tags:
 - metodología
 ---

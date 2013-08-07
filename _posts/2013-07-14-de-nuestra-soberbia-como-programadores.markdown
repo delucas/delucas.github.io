@@ -2,6 +2,7 @@
 layout: post
 title: "De nuestra soberbia como programadores"
 date: 2013-07-14 23:03:48
+comments: true
 tags:
 - opinion
 ---

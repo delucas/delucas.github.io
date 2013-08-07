@@ -2,6 +2,7 @@
 layout: post
 title: "Un blog a mi medida"
 date: 2013-07-08 01:12:21
+comments: true
 tags:
 - meta
 ---
