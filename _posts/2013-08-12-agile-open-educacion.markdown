@@ -5,6 +5,7 @@ date: 2013-08-12 00:15:35
 comments: true
 tags:
 - eventos
+- educación
 ---
 
 El sábado 11 de agosto se realizó en la sede [Centro Cultural Borges][ccborges] de la [Universidad Nacional de Tres de Febrero][untref] la segunda convocatoria del [Agile Open Buenos Aires Educación][aoedubsas2013].

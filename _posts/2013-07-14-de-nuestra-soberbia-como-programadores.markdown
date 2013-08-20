@@ -4,7 +4,7 @@ title: "De nuestra soberbia como programadores"
 date: 2013-07-14 23:03:48
 comments: true
 tags:
-- opinion
+- opinión
 ---
 
 Estoy convencido de que tengo una de las mejores profesiones del mundo. Pero también soy consciente de que lamentablemente los poderes que se nos brindan muchas veces *se nos suben a la cabeza*.
