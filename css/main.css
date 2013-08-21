@@ -66,11 +66,17 @@ ul.posts span {
 /*****************************************************************************/
 
 .site {
+  border-top: 15px solid #333333;
   font-size: 115%;
-  text-align: justify;
-  width: 42em;
-  margin: 3em auto 2em;
   line-height: 1.5em;
+  margin: 0 auto 2em;
+  padding-top: 3em;
+  text-align: justify;
+  width: 46em;
+}
+
+.site header, .site div#home {
+  padding: 0 1em;
 }
 
 .site header a {
