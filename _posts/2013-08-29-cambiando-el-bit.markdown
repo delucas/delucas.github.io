@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Cambiando el bit'
+title: 'Cambiando el bit, por Robert Martin'
 date: 2013-08-29 23:24:20 -0300
 comments: true
 tags:
