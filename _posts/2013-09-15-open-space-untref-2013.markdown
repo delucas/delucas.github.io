@@ -25,6 +25,10 @@ Kudos para todos los que lo hicieron posible. Estoy contento de poder formar par
 
 Voy a actualizar el post conforme haya más información al respecto de las charlas que se dieron, o crónicas de otros asistentes.
 
+## Actualización 18/09/2013
+
+Martín ha subido el [video de la charla][charlacarrera] brindada por Alejandro Oliveros sobre el nuevo plan de carrera.
+
 [openspaceuntref]: http://untrefcomputacion.com.ar/category/espacio-abierto/
 [android]: http://developer.android.com/index.html
 [windowsphone]: http://developer.windowsphone.com/
@@ -33,3 +37,4 @@ Voy a actualizar el post conforme haya más información al respecto de las char
 [dfontde]: https://twitter.com/dfontde
 [mtugnarelli]: https://twitter.com/mtugnarelli
 [tiagox]: https://twitter.com/tiagox
+[charlacarrera]: http://www.youtube.com/watch?v=mp4OIhSkAeI
