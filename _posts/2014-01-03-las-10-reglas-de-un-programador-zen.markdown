@@ -102,6 +102,12 @@ Entonces... ¿por qué exactamente sos especial? ¿Porque tenés la suerte de ha
 
 > **Descargo: ** No soy un monje Zen. Sólo estoy practicando y aprendiendo. Por favor preguntá a tu monje Zen local si sentís que hay algo que querés entender más profundamente. Por supuesto puedo tratar de responder en este blog, pero bueno, sólo soy un principiante. De cualquier modo me alegro que comentes y si pudieras twittear con un link a esta página si te gustó el post. ¡Gracias por leer!
 
+![Ilustración hecha por Adrián](../img/ten-rules-aparedes.jpg)
+
+> **Notas del traductor**: Se reproduce el texto traducido, con permiso explícito de Cristian Grobmeier.  
+> La ilustración no forma parte del artículo original, sino que es un aporte de [Adrián][adrian] ¡Gracias!
+
 [christian]: http://www.grobmeier.de/
 [original]: http://www.grobmeier.de/the-10-rules-of-a-zen-programmer-03022012.html
 [zenprogrammer]: http://www.zenprogrammer.org/
+[adrian]: http://about.me/elfrasco
