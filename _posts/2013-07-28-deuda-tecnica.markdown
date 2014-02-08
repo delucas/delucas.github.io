@@ -5,6 +5,7 @@ date: 2013-07-28 22:32:31
 comments: true
 tags:
 - metodología
+- traducciones
 ---
 
 Hace unos días me encontré con un video de [Ward Cunningham][ward] explicando cómo formó la metáfora de la deuda técnica. Sinceramente no sabía que el término lo había acuñado él ni cómo había surgido la analogía, y por ello su explicación resultó enriquecedora y simple.

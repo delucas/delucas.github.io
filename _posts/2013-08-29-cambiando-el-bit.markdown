@@ -7,6 +7,7 @@ tags:
 - programación
 - uncle-bob
 - craftmanship
+- traducciones
 ---
 
 > Este artículo fue publicado originalmente en el [blog de 8th light][original]. Fue traducido y reproducido con [permiso del autor][permission], [Robert C. Martin][unclebobmartin].

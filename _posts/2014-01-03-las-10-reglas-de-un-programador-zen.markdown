@@ -6,6 +6,7 @@ comments: true
 tags:
 - programación
 - opinión
+- traducciones
 ---
 
 [Texto original][original] por [Christian Grobmeier][christian], el 3 de Febrero de 2012 a las 8:52 pm
