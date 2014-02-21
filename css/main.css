@@ -193,3 +193,12 @@ ul.posts span {
   border-left: 5px solid #ddd;
   padding-left: 10px;
 }
+
+div.aside-img {
+  float: left;
+  margin-right: 1.5em;
+}
+
+div.clear {
+  clear: both;
+}
