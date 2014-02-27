@@ -1,0 +1,35 @@
+body {
+  margin: 0px !important;
+  border-left: 1em solid #f39c12;
+}
+
+.container {
+  width: 100% !important;
+  margin: 0px auto !important;
+}
+
+.site {
+  font-size: 1.5em;
+  line-height: 1.5em;
+  margin: 0 auto;
+  text-align: justify;
+  width: 42em;
+}
+
+header {
+  padding-top: 2em;
+}
+
+footer {
+  padding-bottom: 2em;
+}
+
+@media(max-width: 999px) {
+  .site {
+    width: 80% !important;
+  }
+
+  .posts .date {
+    display: none;
+  }
+}
