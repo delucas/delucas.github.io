@@ -18,7 +18,7 @@ Este tipo de amarres me ponen los pelos de punta: no puede ser posible que si la
 
 Esta vez me reencontré con esa idea, gracias a este [video TED][video] de [Yves Morieux][yves], llamado como el título de este post:
 
-<iframe src="http://embed.ted.com/talks/yves_morieux_as_work_gets_more_complex_6_rules_to_simplify.html" width="640" height="360" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+<iframe src="http://embed.ted.com/talks/yves_morieux_as_work_gets_more_complex_6_rules_to_simplify.html" width="100%" height="400" frameborder="0" scrolling="no" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
 
 Básicamente lo que dice, por si no tienen doce minutos ahora para verlo (pero véanlo luego, comunica su idea de una forma muy clara) es lo siguiente:
 

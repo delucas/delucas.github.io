@@ -3,6 +3,29 @@ body {
   border-left: 1em solid #f39c12;
 }
 
+.site header h1.title a span {
+  color: #000;
+  font-weight: normal;
+}
+
+.site header a {
+  float: right;
+}
+
+.site header h1.title a span.name {
+  font-weight: bold;
+}
+
+.site h1.post-title {
+  font-size: 2em;
+  line-height: 1.3em;
+}
+
+.site header h1.title {
+  font-size: 1.5em;
+  margin-bottom: 1em;
+}
+
 .container {
   width: 100% !important;
   margin: 0px auto !important;
@@ -22,6 +45,15 @@ header {
 
 footer {
   padding-bottom: 2em;
+}
+
+.posts li {
+    line-height: 1.5em;
+    margin: 1em 0;
+}
+
+.posts .date {
+  float: right;
 }
 
 @media(max-width: 999px) {
