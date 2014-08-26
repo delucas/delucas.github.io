@@ -3,3 +3,7 @@ pygments: true
 permalink: /:title
 url: http://delucas.github.io
 markdown: redcarpet
+
+collections:
+  gittips:
+    output: true
