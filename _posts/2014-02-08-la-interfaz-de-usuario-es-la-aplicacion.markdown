@@ -15,7 +15,7 @@ La nota "[entregar no es fácil][shippin]" ([pero alguien tiene que hacerlo][som
 
 > TeX no tiene errores... quizás esa es la excepción que prueba la regla :-)
 
-[Ian Ringrose][ian] resopndió inmediatamente:
+Ian Ringrose respondió inmediatamente:
 
 > ¿Pero acaso tiene algún usuario? **¿Acaso el hecho de que es muy difícil de usar no es un bug en sí mismo?**
 
@@ -36,11 +36,10 @@ Yo tuve exactamente esta experiencia en un proyecto recientemente. Estamos const
 
 No me importa qué tantos diagramas de arquitectura en Visio tengas; en lo que concierne al usuario, **la interfaz es la aplicación**. Sé que [la interfaz de usuario es difícil][hard], pero tenés que construír interfaces impresionantes si querés ser tomado en serio. Dale a tu interfaz de usuario la alta prioridad que se merece.
 
-[original]: http://www.codinghorror.com/blog/2005/08/the-user-interface-is-the-application.html
+[original]: http://blog.codinghorror.com/the-user-interface-is-the-application/
 [jeff]: http://www.codinghorror.com/blog/2004/02/about-me.html
 [shippin]: http://www.shawnburke.net/default.aspx?document=264&userinterface=9
 [somebody]: http://www.google.com/url?sa=U&start=2&q=http://www.azlyrics.com/lyrics/icet/somebodygottadoitpimpinainteasy.html&e=747
-[ian]: http://www.ringrose.name/
 [mats]: http://www.artima.com/intv/craft.html
 [iceberg]: http://www.joelonsoftware.com/articles/fog0000000356.html
-[hard]: http://www.codinghorror.com/blog/archives/000325.html
+[hard]: http://blog.codinghorror.com/ui-is-hard/

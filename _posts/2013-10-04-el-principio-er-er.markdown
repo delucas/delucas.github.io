@@ -8,7 +8,7 @@ tags:
 - uncle-bob
 ---
 
-Hace aproximadamente un mes [me encontré con un correo][mensaje] en la [lista de Clean Coders][cleancoders] que me llamó la atención. Decidí *dejarlo estacionar* un tiempo y luego compartirlo.
+Hace aproximadamente un mes [me encontré con un correo][mensaje] en la lista de Clean Coders que me llamó la atención. Decidí *dejarlo estacionar* un tiempo y luego compartirlo.
 
 **Nota:** Voy a traducir ambos correos, tomándome la licencia de llenar con vínculos el texto plano. Además me tomaré la licencia de localizar algunas expresiones.
 
@@ -68,9 +68,8 @@ Hace aproximadamente un mes [me encontré con un correo][mensaje] en la [lista d
 Más claro, échele agua.
 
 [mensaje]: https://groups.google.com/forum/#!searchin/clean-code-discussion/principle/clean-code-discussion/ysTOZBieHAM/LfiJBojjx-8J
-[cleancoders]: http://groups.google.com/group/cleancodediscussion
 [codecasts]: http://www.cleancoders.com/
-[cleancode]: http://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882
+[cleancode]: http://www.amazon.es/Clean-code-Handbook-Software-Craftsmanship/dp/0132350882
 [principioerer]: http://objology.blogspot.com.ar/2011/09/one-of-best-bits-of-programming-advice.html
 [petercoad]: http://en.wikipedia.org/wiki/Peter_Coad
 [srp]: https://docs.google.com/file/d/0ByOwmqah_nuGNHEtcU5OekdDMkk/edit?usp=drive_web

@@ -110,5 +110,5 @@ Entonces... ¿por qué exactamente sos especial? ¿Porque tenés la suerte de ha
 
 [christian]: http://www.grobmeier.de/
 [original]: http://www.grobmeier.de/the-10-rules-of-a-zen-programmer-03022012.html
-[zenprogrammer]: http://www.zenprogrammer.org/
+[zenprogrammer]: http://zenprogrammer.org/es/
 [adrian]: http://about.me/elfrasco

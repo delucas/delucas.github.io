@@ -31,7 +31,7 @@ Martín ha subido el [video de la charla][charlacarrera] brindada por Alejandro 
 
 [openspaceuntref]: http://untrefcomputacion.com.ar/category/espacio-abierto/
 [android]: http://developer.android.com/index.html
-[windowsphone]: http://developer.windowsphone.com/
+[windowsphone]: http://dev.windows.com/en-us
 [facundomr]: https://twitter.com/facundomr
 [maribelmai]: https://twitter.com/maribelmai
 [dfontde]: https://twitter.com/dfontde

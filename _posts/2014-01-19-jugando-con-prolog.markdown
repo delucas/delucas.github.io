@@ -97,6 +97,6 @@ Espero que hayan disfrutado este pequeño post sobre Prolog. Pronto, ¡algo más
 [prolog]: http://es.wikipedia.org/wiki/Prolog
 [gprolog]: http://www.gprolog.org/
 [dragonballpl]: ../files/dragon-ball.pl
-[slsw]: http://www.amazon.com/Seven-Languages-Weeks-Programming-Programmers/dp/193435659X
-[lpwp]: http://www.amazon.com/Logic-Programming-Prolog-Max-Bramer/dp/1852339381
+[slsw]: http://www.amazon.es/Seven-Languages-Weeks-Programming-Programmers/dp/193435659X
+[lpwp]: http://www.amazon.com/Logic-Programming-Prolog-Max-Bramer/dp/144715486X
 [bruce]: https://twitter.com/redrapids
