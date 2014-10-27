@@ -60,7 +60,7 @@ La comunidad **se porta mejor cada año**. Se huele en el aire la interacción, 
 
 * Fue una buena idea darle pines a los oradores, e instruirlos para que los regalen cada vez que les hicieran preguntas fuera de la sala. Eso aceitó las ganas de charlar con el orador, más allá del típico saludo y felicitación. Claro, había una motivación externa para ello: al juntar todos los pines, se regalaba una remera al participante.
 * ¡Internet anduvo decentemente durante casi todo el evento!
-* Las desinteligencias que hubo (porque siempre las hay en estos eventos) han pasado despercibidas y fueron resueltas con elegancia.
+* Las desinteligencias que hubo (porque siempre las hay en estos eventos) han pasado desapercibidas y fueron resueltas con elegancia.
 
 ### Pifies
 
@@ -72,7 +72,15 @@ Todo perdonable porque somos bastante nerds :)
 
 ## Conclusión
 
-Creo que hicieron un gran trabajo. El feedback de los asistentes fue notable... mucho afecto de la comunidad.
+Hicieron un gran trabajo. El feedback de los asistentes fue notable... mucho afecto de la comunidad. Mención especial para los organizadores: [@inkel][inkel], [@_ceciliarivero][ceciliarivero], [@sebasr][sebasr], [@_nesto][nesto], [@ceneon][ceneon], [@lucasefe][lucasefe] y [@matiasow][matiasow].
+
+[inkel]: https://twitter.com/inkel/
+[ceciliarivero]: https://twitter.com/_ceciliarivero/
+[sebasr]: https://twitter.com/sebasr/
+[nesto]: https://twitter.com/_nesto/
+[ceneon]: https://twitter.com/ceneon/
+[matiasow]: https://twitter.com/matiasow/
+[lucasefe]: https://twitter.com/lucasefe/
 
 [rubyconf]: http://rubyconfargentina.org/index_es.html
 [jano]: https://twitter.com/janogonzalez
