@@ -7,9 +7,11 @@ tags:
 - eventos
 ---
 
+> **Descargo:** estoy haciendo un esfuerzo por no inundar el post con subjetividades. En parte por ser colega/amigo de algunos de los organizadores. Sepan entenderlo :)
+
 El 24 y 25 de Octubre pasados se desarrolló la cuarta [RubyConf Argentina][rubyconf]. Luego de todo el entusiasmo del fin de semana, te cuento qué me pareció.
 
-> **TL;DR:** Estuvo genial, y no me voy a perder la próxima.
+> **TL;DR:** Estuvo genial, y no me voy a perder la próxima. He dicho.
 
 ![El equipo de RubyConf Argentina 2014](../img/rubyconfar2014.jpg)
 
