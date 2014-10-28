@@ -28,7 +28,7 @@ Las charlas tuvieron un excelente nivel. Hubo de todo, y para todos los gustos: 
 * **Concurrency for Rubyists**. [Federico][federico] nos habló sobre plataformas Ruby que soportan concurrencia, y cómo hacer uso de ella.
 * **Look ma', I know my algorithms!**. [Lucía][lucia] compartió el análisis que hizo sobre un algorítmo que le permitió bajar el tiempo de ejecución de media hora a algunos pocos segundos.
 * **Ruby on your pocket with RubyMotion**. [Ignacio][ignacio] nos mostró la plataforma de desarrollo móvil RubyMotion. Demostración en vivo inclusive.
-* **Redis: más allá del caché y las colas**. [El otro Jano][janowski] compartió otros usos para una base de datos como Redis que permiten utilizarla en entornos típicamente relacionales.
+* **Redis: más allá del caché y las colas**. [El otro Jano][janowski] (autodenominado así) compartió otros usos para una base de datos como Redis que permiten utilizarla en entornos típicamente relacionales.
 * **Los Diez Mandamientos del Programador en Ruby**. [Emilio][emilio] hizo un reconto de malas prácticas que deberíamos evitar.
 
 ### Segundo día
@@ -44,13 +44,13 @@ Las charlas tuvieron un excelente nivel. Hubo de todo, y para todos los gustos: 
 
 ## Lugar
 
-Se realizó en la [Ciudad Cultural Konex][konex], al igual que el año pasado. El lugar fue **el apropiado para un evento con esta cantidad de gente**, teniendo pequeñas demoras al desagotar sala.
+Se realizó en la [Ciudad Cultural Konex][konex], al igual que el año pasado. El lugar fue **excelente para el tipo de evento y de gente que solemos juntarnos**, descontracturado pero amplio. Hubo algunos problemas para desagotar la sala.
 
-El problema, sin embargo, fue el *excesivo calor* que afectó a la atención que podíamos prestarle a algunos oradores. El segundo día mejoró mucho al no dejar las puertas de la sala abiertas, pero por la tarde también fue bastante complicado soportarlo.
+El problema, sin embargo, fue el *excesivo calor* que afectó a la atención que podíamos prestarle a algunos oradores. El segundo día mejoró mucho al no dejar las puertas de la sala abiertas, pero por la tarde también se tornó complicado soportar la temperatura.
 
 ## Servicio de comidas
 
-Como siempre, **de lujo**. Lo noté más escaso que el año pasado, lo que no está mal ya que en el 2013 sobró demasiada comida. También me pareció menos variado. *Algunas frutas no hubieran venido mal*.
+Como siempre, **de lujo**. Lo noté más escaso que el año pasado, lo que no está mal ya que en el 2013 sobró demasiada comida. También me pareció menos variado. *Algunas frutas no hubieran venido mal*. Pero, como siempre que la vara se sube, se comienza a hilar más fino.
 
 ## Comunidad
 
@@ -62,11 +62,11 @@ La comunidad **se porta mejor cada año**. Se huele en el aire la interacción, 
 
 * Fue una buena idea darle pines a los oradores, e instruirlos para que los regalen cada vez que les hicieran preguntas fuera de la sala. Eso aceitó las ganas de charlar con el orador, más allá del típico saludo y felicitación. Claro, había una motivación externa para ello: al juntar todos los pines, se regalaba una remera al participante.
 * ¡Internet anduvo decentemente durante casi todo el evento!
-* Las desinteligencias que hubo (porque siempre las hay en estos eventos) han pasado desapercibidas y fueron resueltas con elegancia.
+* Las desprolijidades que pudo haber, han pasado desapercibidas y fueron resueltas con total elegancia.
 
 ### Pifies
 
-* Faltó una instrucción clara de que podían intercambiarse pines con tal de obtener el premio. No se fomentó el diálogo entre asistentes desconocidos.
+* Faltó una instrucción clara de que podían intercambiarse pines con tal de obtener el premio. No se fomentó el diálogo entre asistentes desconocidos, cosa que el año pasado se había hecho con el armado de un Ruby de papel.
 * El aire acondicionado no acompañó al nivel de calor.
 * La "segunda pantalla" que aparecía cuando el orador desconectaba la computadora a veces caía en "sin señal".
 
@@ -74,7 +74,7 @@ Todo perdonable porque somos bastante nerds :)
 
 ## Conclusión
 
-Hicieron un gran trabajo. El feedback de los asistentes fue notable... mucho afecto de la comunidad. Mención especial para los organizadores: [@inkel][inkel], [@_ceciliarivero][ceciliarivero], [@sebasr][sebasr], [@_nesto][nesto], [@ceneon][ceneon], [@lucasefe][lucasefe] y [@matiasow][matiasow].
+Hicieron un gran trabajo. El feedback de los asistentes fue notable... mucho afecto de la comunidad. Mención especial para los organizadores: [@inkel][inkel], [@_ceciliarivero][ceciliarivero], [@sebasr][sebasr], [@_nesto][nesto], [@ceneon][ceneon], [@lucasefe][lucasefe] y [@matiasow][matiasow] **¡Felicitaciones, muchachos!**
 
 [inkel]: https://twitter.com/inkel/
 [ceciliarivero]: https://twitter.com/_ceciliarivero/
