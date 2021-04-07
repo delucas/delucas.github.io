@@ -14,7 +14,7 @@ Por otro lado, algunos han fallecido en los últimos años: [Grace Hopper][hoppe
 Convengamos que no es normal tener tan cerca la vida, obra y, en algunos casos, el deceso de los que dan sentido a tu profesión: los contadores utilizan métodos creados hace cientos de años (la partida doble data del siglo XV); los abogados se rigen en parte por principios del derecho romano del siglo XI a.C.; los descubrimientos médicos se hacen todo el tiempo, pero las bases de la medicina moderna se sentaron en el siglo V.
 
 <div class="aside-img">
-  <img src="../img/jim.jpg" alt="Jim Weirich"></img>
+  <img src="../img/jim.jpg" alt="Jim Weirich"/>
 </div>
 
 Ayer dejó este mundo el gran [Jim Weirich][jim], creador de rake, inspiración para muchos. Un hombre gentil, quien compartió siempre todo lo que sabía sólo para hacer más grande la profesión. Una persona humilde, que siempre tenía una actitud de fascinación ante todo conocimiento nuevo que encontraba: Lo he podido ver tomando nota mientras observaba atentamente las charlas de otros oradores en la [RubyConf Uruguay 2013][rubyconfuy].
